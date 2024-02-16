@@ -1,3 +1,3 @@
-function gittish(){ 
-  window.location.replace("https://www.youtube.com/watch?v=xvFZjo5PgG0")
-}
+setTimeout(function(){
+  window.location.redirect("https://youtu.be/xvFZjo5PgG0?si=xPMF_-PJOlEtPOs-")
+}, 3000);
