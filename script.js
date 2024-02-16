@@ -1,3 +1,3 @@
 setTimeout(function(){
-  window.location.redirect("https://youtu.be/xvFZjo5PgG0?si=xPMF_-PJOlEtPOs-")
+  window.location.replace("https://youtu.be/xvFZjo5PgG0?si=xPMF_-PJOlEtPOs-")
 }, 3000);
